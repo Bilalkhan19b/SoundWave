@@ -1,0 +1,902 @@
+.songs-container {
+  min-height: 100vh;
+}
+.songs-songs {
+  width: 100%;
+  height: 1080px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  background-color: rgba(69, 69, 69, 1);
+}
+.songs-text {
+  top: 42px;
+  left: 1455px;
+  color: rgba(255, 255, 255, 1);
+  width: 103px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.songs-text02 {
+  top: 42px;
+  left: 1617px;
+  color: rgba(255, 255, 255, 1);
+  width: 103px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.songs-logo {
+  top: 27px;
+  left: 159px;
+  width: 60px;
+  height: 60px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.songs-ellipse1 {
+  top: 0px;
+  left: 0px;
+  width: 60px;
+  height: 60px;
+  position: absolute;
+  border-color: transparent;
+  border-style: solid;
+  border-width: 3px;
+}
+.songs-group1 {
+  top: 22px;
+  left: 11px;
+  width: 37px;
+  height: 15.000000953674316px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.songs-line1 {
+  top: 6px;
+  left: 0px;
+  width: 3px;
+  height: 0px;
+  position: absolute;
+}
+.songs-line2 {
+  top: 6px;
+  left: 5px;
+  width: 3px;
+  height: 0px;
+  position: absolute;
+}
+.songs-line8 {
+  top: 6px;
+  left: 32px;
+  width: 3px;
+  height: 0px;
+  position: absolute;
+}
+.songs-line9 {
+  top: 6px;
+  left: 37px;
+  width: 3px;
+  height: 0px;
+  position: absolute;
+}
+.songs-line3 {
+  top: 3px;
+  left: 10px;
+  width: 9px;
+  height: 0px;
+  position: absolute;
+}
+.songs-line7 {
+  top: 3px;
+  left: 27px;
+  width: 9px;
+  height: 0px;
+  position: absolute;
+}
+.songs-line5 {
+  top: 0px;
+  left: 15px;
+  width: 15px;
+  height: 0px;
+  position: absolute;
+}
+.songs-line6 {
+  top: 0px;
+  left: 21px;
+  width: 15px;
+  height: 0px;
+  position: absolute;
+}
+.songs-rectangle2 {
+  top: 16px;
+  left: 4px;
+  width: 52px;
+  height: 28px;
+  position: absolute;
+  border-color: transparent;
+}
+.songs-text04 {
+  top: 39px;
+  left: 239px;
+  color: rgba(255, 255, 255, 1);
+  width: 258px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.songs-nav {
+  top: 952px;
+  left: 0px;
+  width: 1920px;
+  height: 128px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.songs-rectangle8 {
+  top: 0px;
+  left: 0px;
+  width: 1920px;
+  height: 124px;
+  position: absolute;
+  border-color: transparent;
+}
+.songs-text06 {
+  top: 5px;
+  left: 184px;
+  color: rgba(188, 58, 128, 1);
+  width: 141px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.songs-text08 {
+  top: 5px;
+  left: 345px;
+  color: rgba(255, 255, 255, 1);
+  width: 142px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.songs-text10 {
+  top: 4px;
+  left: 1665px;
+  color: rgba(255, 255, 255, 1);
+  width: 141px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.songs-text12 {
+  top: 4px;
+  left: 1477px;
+  color: rgba(255, 255, 255, 1);
+  width: 142px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.songs-frame {
+  top: 62px;
+  left: 1251px;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.songs-group {
+  top: 56px;
+  left: 1476px;
+  width: 24px;
+  height: 19.503950119018555px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.songs-vector {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 20px;
+  position: absolute;
+}
+.songs-frame1 {
+  top: 55px;
+  left: 1639px;
+  width: 24px;
+  height: 22px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.songs-group1 {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 22px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.songs-vector1 {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 22px;
+  position: absolute;
+}
+.songs-component13 {
+  top: 873px;
+  left: 1346px;
+  width: 50px;
+  height: 50px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.songs-ellipse3 {
+  top: 0px;
+  left: 0px;
+  width: 50px;
+  height: 50px;
+  position: absolute;
+  border-color: transparent;
+}
+.songs-pause {
+  top: 15px;
+  left: 13px;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.songs-rectangle {
+  top: 3px;
+  left: 4px;
+  width: 6px;
+  height: 18px;
+  position: absolute;
+  border-color: rgba(150, 150, 150, 1);
+  border-radius: 2px;
+}
+.songs-rectangle-copy {
+  top: 3px;
+  left: 14px;
+  width: 6px;
+  height: 18px;
+  position: absolute;
+  border-color: rgba(150, 150, 150, 1);
+  border-radius: 2px;
+}
+.songs-settingsgear {
+  top: 57px;
+  left: 1355px;
+  width: 83px;
+  height: 70px;
+  position: absolute;
+}
+.songs-component15 {
+  top: 42px;
+  left: 400px;
+  width: 1055px;
+  height: 915.1558227539062px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.songs-group5 {
+  top: 0px;
+  left: 0px;
+  width: 1055px;
+  height: 94px;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: transparent;
+  flex-direction: column;
+  justify-content: center;
+}
+.songs-rectangle81 {
+  width: 1011px;
+  height: 71px;
+  opacity: 0.60;
+  position: relative;
+  border-color: transparent;
+  border-radius: 20px;
+}
+.songs-frame12 {
+  top: 101px;
+  left: 153px;
+  width: 872px;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  border-color: transparent;
+  justify-content: center;
+}
+.songs-component11 {
+  width: 210px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-right: 591px;
+  flex-direction: column;
+}
+.songs-text14 {
+  color: rgba(229, 229, 229, 1);
+  height: auto;
+  font-size: 24px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 22px;
+  text-decoration: none;
+}
+.songs-text16 {
+  color: rgba(188, 188, 188, 1);
+  height: auto;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Semibold;
+  text-align: left;
+  font-family: SF Pro Display;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 22px;
+  text-decoration: none;
+}
+.songs-text18 {
+  color: rgba(229, 229, 229, 1);
+  height: auto;
+  font-size: 24px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: SF Pro Display;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 22px;
+  text-decoration: none;
+}
+.songs-text20 {
+  color: rgba(188, 188, 188, 1);
+  height: auto;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Semibold;
+  text-align: left;
+  font-family: SF Pro Display;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 22px;
+  text-decoration: none;
+}
+.songs-text22 {
+  color: rgba(229, 229, 229, 1);
+  height: auto;
+  font-size: 24px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: SF Pro Display;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 22px;
+  text-decoration: none;
+}
+.songs-text24 {
+  color: rgba(188, 188, 188, 1);
+  height: auto;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Semibold;
+  text-align: left;
+  font-family: SF Pro Display;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 22px;
+  text-decoration: none;
+}
+.songs-text26 {
+  color: rgba(229, 229, 229, 1);
+  height: auto;
+  font-size: 24px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: SF Pro Display;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 22px;
+  text-decoration: none;
+}
+.songs-text28 {
+  color: rgba(188, 188, 188, 1);
+  height: auto;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Semibold;
+  text-align: left;
+  font-family: SF Pro Display;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 22px;
+  text-decoration: none;
+}
+.songs-text30 {
+  color: rgba(229, 229, 229, 1);
+  height: auto;
+  font-size: 24px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: SF Pro Display;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 22px;
+  text-decoration: none;
+}
+.songs-text32 {
+  color: rgba(188, 188, 188, 1);
+  height: auto;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Semibold;
+  text-align: left;
+  font-family: SF Pro Display;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 22px;
+  text-decoration: none;
+}
+.songs-text34 {
+  color: rgba(229, 229, 229, 1);
+  height: auto;
+  font-size: 24px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: SF Pro Display;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 22px;
+  text-decoration: none;
+}
+.songs-text36 {
+  color: rgba(188, 188, 188, 1);
+  height: auto;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Semibold;
+  text-align: left;
+  font-family: SF Pro Display;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 22px;
+  text-decoration: none;
+}
+.songs-text38 {
+  color: rgba(229, 229, 229, 1);
+  height: auto;
+  font-size: 24px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: SF Pro Display;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 22px;
+  text-decoration: none;
+}
+.songs-text40 {
+  color: rgba(188, 188, 188, 1);
+  height: auto;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Semibold;
+  text-align: left;
+  font-family: SF Pro Display;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 22px;
+  text-decoration: none;
+}
+.songs-text42 {
+  color: rgba(229, 229, 229, 1);
+  height: auto;
+  font-size: 24px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: SF Pro Display;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.songs-component12 {
+  width: 71px;
+  height: 668px;
+  position: relative;
+}
+.songs-component14 {
+  top: 127px;
+  left: 21px;
+  width: 1034px;
+  height: 788.1558227539062px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.songs-rectangle82 {
+  top: 670px;
+  left: 0px;
+  width: 1034px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  border-color: transparent;
+  flex-direction: column;
+}
+.songs-rectangle83 {
+  width: 1033px;
+  height: 113px;
+  opacity: 0.60;
+  position: relative;
+  border-color: transparent;
+  border-radius: 20px;
+}
+.songs-component9 {
+  top: 0px;
+  left: 29px;
+  width: 85px;
+  height: 771px;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: transparent;
+  flex-direction: column;
+}
+.songs-song-cover-art9 {
+  width: 75px;
+  height: 75px;
+  position: relative;
+  border-color: transparent;
+  border-radius: 25px;
+  margin-bottom: 3px;
+}
+.songs-song-cover-art2 {
+  width: 85px;
+  height: 85px;
+  position: relative;
+  border-color: transparent;
+  border-radius: 25px;
+  margin-bottom: 3px;
+}
+.songs-song-cover-art3 {
+  width: 85px;
+  height: 85px;
+  position: relative;
+  border-color: transparent;
+  border-radius: 25px;
+  margin-bottom: 3px;
+}
+.songs-song-cover-art4 {
+  width: 85px;
+  height: 85px;
+  position: relative;
+  border-color: transparent;
+  border-radius: 25px;
+  margin-bottom: 3px;
+}
+.songs-song-cover-art5 {
+  width: 85px;
+  height: 85px;
+  position: relative;
+  border-color: transparent;
+  border-radius: 25px;
+  margin-bottom: 3px;
+}
+.songs-song-cover-art6 {
+  width: 85px;
+  height: 85px;
+  position: relative;
+  border-color: transparent;
+  border-radius: 25px;
+  margin-bottom: 3px;
+}
+.songs-song-cover-art7 {
+  width: 85px;
+  height: 85px;
+  position: relative;
+  border-color: transparent;
+  border-radius: 25px;
+  margin-bottom: 3px;
+}
+.songs-song-cover-art8 {
+  width: 85px;
+  height: 85px;
+  position: relative;
+  border-color: transparent;
+  border-radius: 25px;
+  margin-bottom: 3px;
+}
+.songs-song-cover-art1 {
+  width: 75px;
+  height: 75px;
+  position: relative;
+  border-color: transparent;
+  border-radius: 25px;
+}
+.songs-component10 {
+  top: 679px;
+  left: 133px;
+  width: 252px;
+  height: 79px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.songs-text44 {
+  left: 1px;
+  color: rgba(188, 188, 188, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Semibold;
+  text-align: left;
+  font-family: SF Pro Display;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.songs-text46 {
+  top: 25px;
+  color: rgba(229, 229, 229, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: SF Pro Display;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.songs-text48 {
+  top: 60px;
+  color: rgba(188, 188, 188, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Semibold;
+  text-align: left;
+  font-family: SF Pro Display;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.songs-text50 {
+  top: 23px;
+  left: 437px;
+  color: rgba(240, 240, 240, 1);
+  width: 148px;
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.songs-chevronleft {
+  top: 15px;
+  left: 26px;
+  width: 66px;
+  height: 79px;
+  position: absolute;
+}
